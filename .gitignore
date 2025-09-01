@@ -1,0 +1,4 @@
+.idea
+*.pdf
+Lectures/
+cmake-build-debug
